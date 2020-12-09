@@ -1,0 +1,40 @@
+* {
+	font-family: Sans-serif;
+	color: rgb(98,98,98);
+	text-align: center;
+}
+
+.logo-area img {
+	width: 80%;
+}
+
+.button-send {
+	background-color: rgb(211,21,21);
+	color: rgb(255,255,255);
+}
+
+.action-area {
+	text-align: center;
+}
+
+.button-xlarge {
+	width: 75%;
+	font-size: 18px;
+	font-weight: 700;
+}
+
+.copyright-area {
+	text-align: center;
+	position: fixed;
+	bottom: 5px;
+}
+
+.copyright-area img {
+	width: 50%;
+	text-align: center;
+}
+
+.copyright-area p {
+	font-size: 14px;
+	font-weight: 700;
+}
